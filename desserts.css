@@ -4,6 +4,7 @@
   font-family: cursive;
   font-size: 20px;
   font-weight: bolder;
+   transition: 0.5s ease;
 }
 
 .nav-link:hover{
